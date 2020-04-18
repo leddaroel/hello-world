@@ -1,2 +1,2 @@
 # hello-world
-Example repository.
+This is me trying to follow all the basics of Github.
